@@ -1,4 +1,8 @@
 # 2025 NDSS
+## SpaceSec 2024
+Merge/Space: A Security Testbed for Satellite Systems
+https://www.ndss-symposium.org/ndss-paper/auto-draft-446/
 
-
+Threats Against Satellite Ground Infrastructure
+https://www.ndss-symposium.org/ndss-paper/auto-draft-448/
 
