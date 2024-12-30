@@ -6,3 +6,7 @@
 
 ## SpaceSec 2023  
 [A Case Study on Fuzzing Satellite Firmware](https://www.ndss-symposium.org/ndss-paper/auto-draft-412/)  
+
+# IEEE
+[IJON: Exploring Deep State Spaces via Fuzzing](https://ieeexplore.ieee.org/document/9152719)
+youtube : https://www.youtube.com/watch?v=-n_agcGBLa4&t=118s
